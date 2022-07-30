@@ -1,7 +1,7 @@
 import random
 import string
 
-total = string.ascii_letters + string.digits + string.punctuation
+total = string.ascii_letters + string.digits
 
 length = 24
 
